@@ -2,7 +2,6 @@
 ## Introduction
 ------------
 
-I consulted the source instructions in both code and readme on youtube and chatgpt to carry out this project.
 ## How It Works
 ------------
 
